@@ -1,4 +1,4 @@
-# Foro de Discusión
+# Literalura
 Este proyecto se realizó usando Java y Spring, nos permite realizar diferentes acciones con la API de Gutendex. Esta API maneja información sobre una diversa cantidad de libros y dentro de la aplicación vamos a encontrar lo siguiente: 
 
 ## Tecnologías Utilizadas
